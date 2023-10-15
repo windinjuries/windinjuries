@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wind!<a href="https://www.github.com/injuries"></a></h1>
+<h1 align="center"><a href="https://www.github.com/injuries">Hi, I'm Wind!</a></h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 :star: Here are some projects that I'm working on:
