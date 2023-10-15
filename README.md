@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://www.github.com/injuries"><img src="https://i0.hdslb.com/bfs/new_dyn/5db266c0cd80f1e75d9e70c60ebc78fd35579222.png@1036w_!web-dynamic.webp" alt="Banner"></a>
+</p>
 <h1 align="center"><a href="https://www.github.com/injuries">Hi, I'm Wind!</a></h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
