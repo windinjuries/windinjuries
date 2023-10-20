@@ -6,11 +6,11 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 :star: Here are some projects that I'm working on:
-- [Learn Project](https://github.com/moepoi/Frontier-of-Hell)
+- [Learn Project](https://github.com/windinjuries/LearnProject)
   
 :star: Here are some thing liked:
 -   :pencil2: C / C++ / Rust / Python 
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [neovim](https://neovim.io/) / [lwip](https://github.com/jarun/nnn) / [freertos](https://mpv.io/)
+-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [neovim](https://neovim.io/) / [lwip](https://savannah.nongnu.org/projects/lwip/) / [freertos]([https://mpv.io/](https://www.freertos.org/))
   
 ![Wind's GitHub stats](https://github-readme-stats.vercel.app/api?username=windinjuries)
 
