@@ -16,3 +16,4 @@
   
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=windinjuries" /><span>  </span><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windinjuries&layout=compact&langs_count=8" />
 
+![](https://visitor-badge.glitch.me/badge?page_id=windinjuries.readme)
