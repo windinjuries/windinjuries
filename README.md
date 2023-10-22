@@ -6,6 +6,8 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Windinjuries&label=Profile%20Views&pretty=false" />
 </a>
+
+  
 :star: Here are some projects that I'm working on:
 - [Learn Project](https://github.com/windinjuries/LearnProject)
 - [Wind's Blog](https://github.com/windinjuries/LearnProject)
