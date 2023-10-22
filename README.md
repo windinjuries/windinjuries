@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.github.com/injuries"><img src="https://github.com/windinjuries/Picture/blob/main/Picture/2.jpg" alt="Banner"></a>
+  <a href="https://s2.loli.net/2023/10/22/4QtPSjIVuTfhXea.jpg" alt="Banner"></a>
 
 <h1 align="center"><a href="https://www.github.com/windinjuries">Hi, I'm Wind!</a></h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
