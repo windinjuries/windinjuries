@@ -3,9 +3,6 @@
 
 <h1><a href="https://www.github.com/windinjuries">Hi, I'm Wind!</a></h1>
 <h1>Welcome to my GitHub profile</h1>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Windinjuries&label=Profile%20Views&pretty=false" />
-</a>
 
   
 :star: Here are some projects that I'm working on:
