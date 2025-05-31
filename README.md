@@ -1,5 +1,5 @@
 
-<a href="https://www.github.com/injuries"><img src="https://s2.loli.net/2023/10/22/4QtPSjIVuTfhXea.jpg" alt="Banner"></a>
+<a href="https://www.github.com/injuries"><img src="https://s2.loli.net/2023/01/25/Af7gCFcz41yLOeR.png" alt="Banner"></a>
 
 <h1><a href="https://www.github.com/windinjuries">Hi, I'm Wind!</a></h1>
 <h1>Welcome to my GitHub profile</h1>
