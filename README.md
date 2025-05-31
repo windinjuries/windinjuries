@@ -10,8 +10,8 @@
 - [Wind's Blog](https://github.com/windinjuries/LearnProject)
   
 :star: Here are some thing liked:
--   :pencil2: C / C++ / Rust / Python 
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [neovim](https://neovim.io/) / [lwip](https://savannah.nongnu.org/projects/lwip/) / [freertos](https://www.freertos.org/))
+-   :pencil2: C / C++ / Python / Rust
+-   :package: [freertos](https://www.freertos.org/) / [RT-thread](https://github.com/RT-Thread/rt-thread) / [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [neovim](https://neovim.io/) / [lwip](https://savannah.nongnu.org/projects/lwip/) / 
   
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=windinjuries" /><span>  <span><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windinjuries&layout=compact&langs_count=8" />
 
